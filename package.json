@@ -1,0 +1,24 @@
+{
+  "name": "sqlAPI",
+  "version": "0.0.1",
+  "description": "API endpoint for aggregation over SQL database",
+  "homepage": "https://github.com/hamzamanzoor/sqlAPI",
+  "author": {
+    "name": "Hamza Manzoor",
+    "email": "hamzahbk@gmail.com",
+    "url": "https://github.com/hamzamanzoor"
+  },
+  "keywords": [
+    "sql",
+    "sql-API",
+  ],
+  "dependencies": {
+    "express": "^4.9.0",
+    "mysql": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hamzamanzoor/sqlAPI.git"
+  },
+  "readme": "ERROR: No README data found!"
+}
